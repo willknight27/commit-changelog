@@ -8,6 +8,16 @@ All notable changes to this project will be documented in this file. See [standa
 
 * Agregar archivo .versionrc.json ([035d2a6](https://github.com/willknight27/commit-changelog/commit/035d2a658863dc9c827a1dadda17896a170e5f62))
 * Agregar console.log de nuevos cambios ([3da4aba](https://github.com/willknight27/commit-changelog/commit/3da4aba2551ad4e8d9b7c44dc294cd38978142a0))
+* Agregar skip bump ([e6dae3d](https://github.com/willknight27/commit-changelog/commit/e6dae3d0320ec5ab8d50200b902db57896d37d3d))
+* Tercer commit de prueba ([5f3ac81](https://github.com/willknight27/commit-changelog/commit/5f3ac81b1626a6928b5ccb8b68a35ca639bd1609))
+
+### [0.0.5](https://github.com/willknight27/commit-changelog/compare/v0.0.3...v0.0.5) (2023-12-18)
+
+
+### Features
+
+* Agregar archivo .versionrc.json ([035d2a6](https://github.com/willknight27/commit-changelog/commit/035d2a658863dc9c827a1dadda17896a170e5f62))
+* Agregar console.log de nuevos cambios ([3da4aba](https://github.com/willknight27/commit-changelog/commit/3da4aba2551ad4e8d9b7c44dc294cd38978142a0))
 * Tercer commit de prueba ([5f3ac81](https://github.com/willknight27/commit-changelog/commit/5f3ac81b1626a6928b5ccb8b68a35ca639bd1609))
 
 ### [0.0.4](https://github.com/willknight27/commit-changelog/compare/v0.0.3...v0.0.4) (2023-12-18)
