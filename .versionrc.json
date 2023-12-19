@@ -1,4 +1,7 @@
 {
-    "header": "# Mi Encabezado Personalizado\n\nAll notable changes to this project will be documented in this file."
+    "header": "# Mi Encabezado Personalizado\n\nAll notable changes to this project will be documented in this file.",
+    "scripts": {
+        "postchangelog": "echo 'chore(release): Nueva version <%= newVersion %>'"
+      }
 }
   
