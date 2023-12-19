@@ -1,6 +1,13 @@
 # Mi Encabezado Personalizado
 
 All notable changes to this project will be documented in this file.
+## [0.0.9](https://github.com/willknight27/commit-changelog/compare/v0.0.8...v0.0.9) (2023-12-19)
+
+
+### Chores
+
+* Agregar types en archivo .versionrc.json ([b4b5f40](https://github.com/willknight27/commit-changelog/commit/b4b5f409be19c98e010a24773eb02bd7ce49ee06))
+
 ## [0.0.8](https://github.com/willknight27/commit-changelog/compare/v0.0.7...v0.0.8) (2023-12-19)
 
 
