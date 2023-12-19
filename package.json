@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "release": "standard-version",
-    "changelog": "standard-version --skip.bump --skip.commit --skip.tag",
+    "changelog": "standard-version --skip.bump --skip.tag",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
