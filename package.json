@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "release": "standard-version",
-    "changelog": "standard-version",
+    "release": "commit-and-tag-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/willknight27/commit-changelog/issues"
   },
-  "homepage": "https://github.com/willknight27/commit-changelog#readme"
+  "homepage": "https://github.com/willknight27/commit-changelog#readme",
+  "devDependencies": {
+    "commit-and-tag-version": "^12.0.0"
+  }
 }
