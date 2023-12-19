@@ -1,5 +1,15 @@
 {
     "header": "# Mi Encabezado Personalizado\n\nAll notable changes to this project will be documented in this file.",
-    "releaseCommitMessageFormat": "chore(release): Nueva versión - {{currentTag}}"
+    "releaseCommitMessageFormat": "chore(release): Nueva versión - {{currentTag}}",
+    "types": [
+        {"type": "feat", "section": "Features"},
+        {"type": "fix", "section": "Bug Fixes"},
+        {"type": "chore", "section": "Chores", "hidden": false},
+        {"type": "docs", "section": "Documentation", "hidden": false},
+        {"type": "style", "section": "Styles", "hidden": false},
+        {"type": "refactor", "section": "Refactors", "hidden": false},
+        {"type": "perf", "section": "Performance Improvements", "hidden": false},
+        {"type": "test", "section": "Tests", "hidden": false}
+    ]
 }
   
